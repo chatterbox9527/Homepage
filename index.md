@@ -4,8 +4,6 @@ layout: about
 
 ## About me
 
-<img class="profile-picture" src="personal_photo.jpg">
-
 Hi! I am a 1st year student of Ph.D. Computer Science and Technology at Jilin University, Changchun. 
 
 Simplicity is the ultimate sophistication. --- Leonardo da Vinci
