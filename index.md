@@ -14,9 +14,9 @@ Simplicity is the ultimate sophistication. --- Leonardo da Vinci
 
 ## Research Interests
 
- -Underwater wireless sensor networks
- -Visible light communication
- -Computational intelligence
+ * Underwater wireless sensor networks
+ * Visible light communication
+ * Computational intelligence
 
 ## Education
 
