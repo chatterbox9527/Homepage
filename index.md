@@ -6,27 +6,25 @@ layout: about
 
 Hi! I am a 1st year student of Ph.D. Computer Science and Technology at Jilin University, Changchun. 
 
-Simplicity is the ultimate sophistication. --- Leonardo da Vinci
-
 ## News
 
 > Comming soon...
 
 ## Research Interests
 
-&nbsp; * Underwater wireless sensor networks
-&nbsp; * Visible light communication
-&nbsp; * Computational intelligence
+ * Underwater wireless sensor networks
+ * Visible light communication
+ * Computational intelligence
 
 ## Education
 
-&nbsp; * 09/2023 - now: Ph.D. student in College of Computer Science and Technology, Jilin University
-&nbsp; * 09/2019 - 06/2022: M.Eng. student in School of Computer and Information Engineering, Jiangxi Normal University
-&nbsp; * 09/2015 - 06/2019: B.Eng. student in School of Computer and Information Engineering, Jiangxi Normal University
+ * 09/2023 - now: Ph.D. student in College of Computer Science and Technology, Jilin University
+ * 09/2019 - 06/2022: M.Eng. student in School of Computer and Information Engineering, Jiangxi Normal University
+ * 09/2015 - 06/2019: B.Eng. student in School of Computer and Information Engineering, Jiangxi Normal University
 
 ## Work Experiences
 
-&nbsp; * 7/2022-06/2023: Teacher in School of Information Engineering, Jiangxi University of Science and Technology, China
+ * 7/2022-06/2023: Teacher in School of Information Engineering, Jiangxi University of Science and Technology, China
 
 ## Publications
 
