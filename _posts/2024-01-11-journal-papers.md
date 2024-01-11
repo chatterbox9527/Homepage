@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Papers"
-info: "continuously update"
+info: "Last modified: January 11, 2024"
 tech: ""
 type: Journal & Conference Papers
 ---
