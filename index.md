@@ -24,7 +24,7 @@ Hi! I am a 1st year student of Ph.D. Computer Science and Technology at Jilin Un
 
 ## Work Experiences
 
- * 7/2022-06/2023: Teacher in School of Information Engineering, Jiangxi University of Science and Technology, China
+ * 07/2022-06/2023: Teacher in School of Information Engineering, Jiangxi University of Science and Technology, China
 
 ## Publications
 
