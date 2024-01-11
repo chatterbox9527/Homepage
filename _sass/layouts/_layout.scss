@@ -54,15 +54,18 @@ footer,
       padding-right: 0;
     }
 
-    &:hover,
-    &:focus {
-      color: #FF0F00;
-    }
+    #&:hover,
+    #&:focus {
+      #opacity: 1;
+    #}
   }
 
   a {
     color: $default-color;
     font-family: $sans-serif;
+  }
+  a:hover {
+    color: #FF0F00;
   }
 }
 
