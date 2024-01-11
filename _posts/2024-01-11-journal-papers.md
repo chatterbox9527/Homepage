@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Toy Project"
+title:  "Journal Papers"
 info: "toy project"
-tech: "python"
-type: Toy 
+tech: ""
+type: Paper
 ---
 
 ## Toy Project 1.
