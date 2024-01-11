@@ -1,19 +1,18 @@
 ---
 layout: post
-title:  "Create github page"
-info: "Create my github blog."
-tech: "ruby, jekyll"
-type: B Company
+title:  "Teams"
+info: "Last modified: January 11, 2024"
+tech: ""
+type: Teams
 ---
 
-## Create github page 
-This is a project for my github blog.  
-I actually created a github page, but the contents are fake.  
+## SmartUC Team 
+Comming soon...  
 
 
-## Tech
-To create a github page, you need to know ruby and jekyll.  
+## PhD's photo
+Comming soon...  
 
 
-## Duration
-Well, about three days  
+## Master's photo
+Comming soon...  
