@@ -6,18 +6,12 @@ tech: ""
 type: Journal & Conference Papers
 ---
 
-## Toy Project 1.
-There is no specific form.  
-You can write what you want to write.  
-Since this markdown file is just displayed on the screen, you can create an image or format that matches the format you want.  
-In the case of the example, I briefly described the project introduction, technique, and period.  
+## Journal Papers
+[1] Xinyu Zhou, **Junhong Huang<sup>*</sup>**, Hu Peng, Hui Wang, Feng Wang. Differential Evolution Algorithm Based on Adaptive Bi-coordinate Systems for Mixed-variable Optimization Problem. Chinese Journal of Computers. (Minor revise) \
+[2] Xinyu Zhou, **Junhong Huang**, Hao Tang, Mingwen Wang. [Artificial bee colony algorithm with bi-coordinate systems for global numerical optimization](https://onlinelibrary.wiley.com/doi/10.1002/int.22816). International Journal of Intelligent Systems, 37(9): 5816-5858, 2022. \
+[3] Xinyu Zhou, Jiaxin Lu, **Junhong Huang**, Maosheng Zhong, Mingwen Wang. [Enhancing Artificial Bee Colony Algorithm with Multi-elite Guidance](https://www.sciencedirect.com/science/article/pii/S0020025520307003). Information Sciences, 543: 242-258, 2021. 
 
 
-## Techique
-I wrote that I used python to run the project.  
-You just need to describe how you made it.  
+## Conference Papers
+Comming soon...  
 
-
-## Duration 
-You can enter the period in a convenient format.   
-You may specify only the duration of your work, assuming that you create a start date in the filename.  
