@@ -47,7 +47,7 @@ footer,
     @include transition(all .2s ease-out);
     color: $default-color;
     display: inline-block;
-    opacity: .6;
+    opacity: .8;
     padding: 0 2rem 0 0;
 
     &:last-child {
@@ -56,7 +56,7 @@ footer,
 
     &:hover,
     &:focus {
-      opacity: 1;
+      color: #FF0F00;
     }
   }
 
