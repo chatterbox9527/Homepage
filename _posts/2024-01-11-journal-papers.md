@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Journal Papers"
-info: "toy project"
+info: "continuously update"
 tech: ""
-type: Paper
+type: Papers
 ---
 
 ## Toy Project 1.
